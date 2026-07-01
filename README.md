@@ -10,7 +10,7 @@ Este repositorio contiene el backend de la aplicación, encargado de la lógica 
 
 El análisis completo de requerimientos funcionales y no funcionales, junto con las reglas de negocio, se encuentra en el siguiente documento.
 
-Enlace al documento de requerimientos: agregar aquí el enlace del documento una vez esté subido al repositorio o a Google Drive.
+Enlace al documento de requerimientos: [Correccion_analisis _de _requerimientos_Pokebloom.pdf](docs/Correccion_analisis%20_de%20_requerimientos_Pokebloom.pdf)
 
 ## Diagramas
 
